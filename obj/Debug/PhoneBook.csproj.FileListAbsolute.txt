@@ -1,0 +1,10 @@
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.PhoneBookManager.resources
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\odnag\source\repos\StudyPractice\PhoneBook\obj\Debug\PhoneBook.pdb

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\phonebook\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\phonebook\\phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\phonebookmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:phonebookmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\phonebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:phonebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\phonebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:phonebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD061B7-0854-4B7B-84F0-BA0AB0442A33}|PhoneBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\Contact.cs",
+              "RelativeDocumentMoniker": "Contact.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\Contact.cs",
+              "RelativeToolTip": "Contact.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:48:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBookLoader.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookLoader.cs",
+              "RelativeDocumentMoniker": "PhoneBookLoader.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookLoader.cs",
+              "RelativeToolTip": "PhoneBookLoader.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:46:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneBookManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookManager.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBookManager.Designer.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookManager.Designer.cs",
+              "RelativeToolTip": "PhoneBookManager.Designer.cs",
+              "ViewState": "AgIAADICAAAAAAAAAAAswEACAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:43:46.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "PhoneBook.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBook.cs",
+              "RelativeToolTip": "PhoneBook.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:12:25.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookManager.cs",
+              "RelativeDocumentMoniker": "PhoneBookManager.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookManager.cs",
+              "RelativeToolTip": "PhoneBookManager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAJEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:23:30.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBookManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookManager.cs",
+              "RelativeDocumentMoniker": "PhoneBookManager.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\PhoneBookManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PhoneBookManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:14:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\PhoneBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:40:20.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
